@@ -1,0 +1,1 @@
+web: python server/src/studiobackend/manage.py runserver 0.0.0.0:80
