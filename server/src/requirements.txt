@@ -1,0 +1,7 @@
+django
+django_heroku
+ipython
+psycopg2
+six
+sqlparse
+wsgiref
